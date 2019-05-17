@@ -1,0 +1,30 @@
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA_TP_Projeto_II___Forca.Form1.resources
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA_TP_Projeto_II___Forca.Properties.Resources.resources
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csproj.GenerateResource.cache
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csproj.CoreCompileInputs.cache
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\bin\Debug\AA TP Projeto II - Forca.exe.config
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\bin\Debug\AA TP Projeto II - Forca.exe
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\bin\Debug\AA TP Projeto II - Forca.pdb
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.exe
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.pdb
+F:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\bin\Debug\AA TP Projeto II - Forca.exe.config
+F:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\bin\Debug\AA TP Projeto II - Forca.exe
+F:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\bin\Debug\AA TP Projeto II - Forca.pdb
+F:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csprojResolveAssemblyReference.cache
+F:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA_TP_Projeto_II___Forca.Form1.resources
+F:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA_TP_Projeto_II___Forca.Properties.Resources.resources
+F:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csproj.GenerateResource.Cache
+F:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csproj.CoreCompileInputs.cache
+F:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.exe
+F:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.pdb
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csprojResolveAssemblyReference.cache
+Z:\AA TP Projeto II - Forca\AA TP Projeto II - Forca\bin\Debug\AA TP Projeto II - Forca.exe.config
+Z:\AA TP Projeto II - Forca\AA TP Projeto II - Forca\bin\Debug\AA TP Projeto II - Forca.exe
+Z:\AA TP Projeto II - Forca\AA TP Projeto II - Forca\bin\Debug\AA TP Projeto II - Forca.pdb
+Z:\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csprojResolveAssemblyReference.cache
+Z:\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA_TP_Projeto_II___Forca.Properties.Resources.resources
+Z:\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csproj.GenerateResource.Cache
+Z:\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csproj.CoreCompileInputs.cache
+Z:\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.exe
+Z:\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.pdb
+Z:\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA_TP_Projeto_II___Forca.FrmForca.resources

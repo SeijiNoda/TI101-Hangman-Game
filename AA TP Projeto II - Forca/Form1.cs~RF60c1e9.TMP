@@ -1,0 +1,98 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Windows.Forms;
+
+namespace AA_TP_Projeto_II___Forca
+{
+    public partial class Form1 : Form
+    {
+        Palavra[] vetorDePalavras = new Palavra[100];
+        StreamReader arquivo;
+        int qtasPalavras = 0;
+        int numero;
+        int tempo = 100;
+        int qtasLetras;
+        string palavra;
+        public Form1()
+        {
+            InitializeComponent();
+
+            if(dlgAbrirArquivo.ShowDialog() == DialogResult.OK)
+            {
+                arquivo = new StreamReader(dlgAbrirArquivo.FileName, System.Text.Encoding.Default,true);
+                while (!arquivo.EndOfStream)
+                {
+                    Palavra novaPalavra = new Palavra();
+                    novaPalavra.LerDados(arquivo);
+                    vetorDePalavras[qtasPalavras] = novaPalavra;
+                    qtasPalavras++;
+                }
+                arquivo.Close();
+            }
+        }
+
+        private void btnBotao_Click(object sender, EventArgs e)
+        {
+            Button btn = (Button)sender;
+            btn.Enabled = false;
+            string letraProcurada = btn.Text;
+            
+         
+            for (int i = 0; i < qtasLetras; i++)
+            {
+                    string letraAtual = palavra.Substring(i, 1);
+                    if (letraProcurada == letraAtual)
+                    {
+                        dgvPalavra.Rows[0].Cells[i].Value = letraProcurada;
+                    }
+            }
+            
+        }
+
+        private void btnIniciar_Click(object sender, EventArgs e)
+        {
+            
+            tempo = 100;
+            Random numeroDaPalavra = new Random();
+            numero = numeroDaPalavra.Next(qtasPalavras);          
+            palavra = vetorDePalavras[numero].PalavraEscolhida.ToUpper();
+            qtasLetras = palavra.Length;
+            dgvPalavra.ColumnCount = qtasLetras;
+            dgvPalavra.RowCount = 1;
+            dgvPalavra.AutoResizeColumns();
+            for (int i = 0; i < qtasLetras; i++)
+            {
+                dgvPalavra.Rows[0].Cells[1].Value = null;
+            }                            
+            if (chbDica.Checked)
+            {
+                Palavra novaPalavra = new Palavra();
+                vetorDePalavras[qtasPalavras] = novaPalavra;
+                lbDica.Text = "Dica: " + vetorDePalavras[numero].Dica;
+                tmrTempo.Enabled = true;
+                
+            }
+        }
+
+        private void tmrTempo_Tick(object sender, EventArgs e)
+        {
+            if (tempo <= 0)
+            {
+                tmrTempo.Enabled = false;
+                MessageBox.Show("Tempo esgotado!\nPerdeste, trouxa.");
+            }
+            else
+            { 
+                tempo -= 1;
+                lbTempo.Text = "Tempo Restante: " + tempo + "s";
+            }
+        }
+    }
+}
